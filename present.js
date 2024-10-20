@@ -5,7 +5,7 @@
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
 
 var to = 'Gửi em!';
-var gift_url = 'https://www.facebook.com/nn.thanhxuan';
+var gift_url = 'https://nndkhoa-star.github.io/ttim/ztraitim.html';
 var gift_image_url = 'tx.jpg';
 
 var nametag = document.getElementById("nametag");
